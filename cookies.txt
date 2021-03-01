@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hamyarwp.com	TRUE	/	FALSE	1999999999	__cfduid	da62b902d98b5e11d5d0bc91870a68aae1614588669
+hamyarwp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
